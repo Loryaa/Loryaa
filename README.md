@@ -8,29 +8,8 @@
 - :house_with_garden: **Address: _Brgy. Palanguia, Pototan, Iloilo_**
 - :o2: **Blood Type: _O_**
 - :aries: **Zodiac Sign: _Aries_**
-
-## :school: Educational Background ##
-- :mortar_board: **Elementary: _Palanguia Elementary School_**
-  - **Awards:** *Consistent with Honors*
-- :mortar_board: **Junior High School: _Palanguia National High School_**
-  - **Awards:** *Consistent with Honors*
-- :mortar_board:: **Senior High School: _Western Institute of Technology_**
-  - **Awards:** *Graduated with High Honor*
-- 📚 **University (Current): _West Visayas State University_**
-  - **College:** *College of Information Communications and Technology*
-  - **Course:** *Bachelor of Science in Computer Science*
-
-## :computer: Hobbies ##
-- :video_game: **Gaming**
-  - *Genshin Impact*
-  - *Minecraft*
-  - *Stardew Valley*
-- :tv: **Watching Movies, Anime, Series**
-- :musical_note: **Listening to Music**
-- 🎨 **Arts**
-- 📖 **Reading**
   
-## :office: Organiztions ##
+## :office: Organizations ##
 - 🎭 **WVSU Artist Guild: _Literary Arts ✒_**
 
 ## :bulb: Currently learning.. ##
