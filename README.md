@@ -1,5 +1,5 @@
 # Hello World! :globe_with_meridians:
-**I am _Gloria Marie Lamsin_ a.k.a. _Lorya/Leauwz_ a _BSCS 1-B_ student.**
+**I am _Gloria Marie Lamsin_ a.k.a. _Lorya/Leauwz_ a _BSCS 3-B_ student.**
 ## :memo: Biography ##
 - :page_facing_up: **Name: _Gloria Marie P. Lamsin_**
 - :eight_pointed_black_star: **Age: _19_**
@@ -8,9 +8,6 @@
 - :house_with_garden: **Address: _Brgy. Palanguia, Pototan, Iloilo_**
 - :o2: **Blood Type: _O_**
 - :aries: **Zodiac Sign: _Aries_**
-  
-## :office: Organizations ##
-- 🎭 **WVSU Artist Guild: _Literary Arts ✒_**
 
 ## :bulb: Currently learning.. ##
 - 👩‍💻 **Coding**
